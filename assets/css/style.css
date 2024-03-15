@@ -69,3 +69,9 @@ i {
 .navbar-brand img {
     max-width: 4rem;
 }
+
+/* Carousel */
+
+.carousel-inner {
+    max-height: 60rem;
+}
