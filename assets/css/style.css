@@ -81,3 +81,19 @@ i {
 .card {
     height: 38rem;
 }
+
+/* Footer */
+
+.footer {
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 2.5rem;
+}
+
+/* Media Queries */
+
+@media (max-width: 768px) {
+    .container-img {
+        max-height: 20rem;
+    }
+}
