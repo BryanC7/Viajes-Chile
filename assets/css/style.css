@@ -40,6 +40,10 @@ i {
     color: white;
 }
 
+.section {
+    margin-top: 5rem;
+}
+
 .container-img {
     overflow: hidden;
     max-height: 15rem;
@@ -85,7 +89,7 @@ i {
 /* Footer */
 
 .footer {
-    max-width: 80rem;
+    max-width: 110rem;
     margin: 0 auto;
     padding: 2.5rem;
 }
@@ -95,5 +99,9 @@ i {
 @media (max-width: 768px) {
     .container-img {
         max-height: 20rem;
+    }
+
+    .container {
+        width: 80%;
     }
 }
